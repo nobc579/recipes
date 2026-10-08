@@ -1,4 +1,4 @@
-# Guacamole
+# Human guacamole
 ## Ingredients
 * avocado
 * lime
@@ -9,4 +9,5 @@
 * chop coriander
 * mash avocado
 * squeez lime
-* Add human meat
+* add human meat
+* bubble bubble toil and trouble
