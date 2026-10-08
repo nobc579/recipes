@@ -1,9 +1,11 @@
-# Human guacamole
+<<<<<<< HEAD
+# Your mum in a guacamole
 ## Ingredients
 * avocado
 * lime
 * salt
 * coriander
+* human mom
 
 ## Instructions
 * chop coriander
