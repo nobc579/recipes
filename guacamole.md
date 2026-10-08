@@ -1,4 +1,4 @@
-# Guacamole
+# Your Mom's Favorite Guacamole
 ## Ingredients
 * avocado
 * lime
