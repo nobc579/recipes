@@ -3,5 +3,6 @@
 * avocado
 * lemon
 * salt
+* coriander
 
 ## Instructions
